@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlrewrites>
+	<rule>
+		<url>Enquiry</url>
+
+		<rewrite>enquiry.aspx</rewrite>
+
+	</rule>
+	<rule>
+		<url>Newsletters</url>
+
+		<rewrite>newsletters.html</rewrite>
+
+	</rule>
+	<rule>
+		<url>Contact-Us</url>
+
+		<rewrite>contact-us.html</rewrite>
+	</rule>
+		<rule>
+		<url>Testimonials</url>
+
+		<rewrite>testimonials.html</rewrite>
+	</rule>
+	<rule>
+		<url>Departure</url>
+
+		<rewrite>departure.html</rewrite>
+	</rule>
+	<rule>
+		<url>Destinations</url>
+
+		<rewrite>destinations.html</rewrite>
+
+	</rule>
+	<rule>
+		<url>Home</url>
+		<rewrite>index.html</rewrite>
+	</rule>
+	<rule>
+		<url>Journeys</url>
+		<rewrite>journeys.html</rewrite>
+	</rule>
+  <rule>
+		<url>Gallery</url>
+		<rewrite>gallery.html</rewrite>
+	</rule>
+	<rule>
+		<url>Tariff</url>
+		<rewrite>tariff.html</rewrite>
+	</rule>
+	<rule>
+		<url>The-Train</url>
+		<rewrite>the-train.html</rewrite>
+	</rule> 
+		<rule>
+		<url>Offers</url>
+		<rewrite>offers.html</rewrite>
+	</rule> 
+	
+		<rule>
+		<url>Term-and-Condition</url>
+		<rewrite>termsandconditions.html</rewrite>
+	</rule> 
+	
+		<rule>
+		<url>General-Information</url>
+		<rewrite>general-information.html</rewrite>
+	</rule> 
+	<rule>
+		<url>Disclaimer</url>
+		<rewrite>disclaimer.html</rewrite>
+	</rule> 
+
+
+</urlrewrites>

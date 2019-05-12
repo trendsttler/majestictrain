@@ -1,0 +1,1 @@
+jQuery(document).ready(function(e){jQuery(".toggle_container:not('.active')").hide(),jQuery("h4.trigger").click(function(){return jQuery(this).toggleClass("active").next().slideToggle("normal"),!1})});
